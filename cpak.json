@@ -4,7 +4,7 @@
   "name": "RuneLite",
   "description": "Play Old School RuneScape with RuneLite.",
   "version": "2.8.0",
-  "image": "ghcr.io/containerpak/runelite@sha256:e5bcfd56efa8df6c229a737b458f41c5e80fa28ca806094366b8e8d228a5d5d5",
+  "image": "ghcr.io/containerpak/runelite@sha256:b2afa9b1324b4875c7ceff9e818c90e58d34e280e19ed8c3d4356d2d2178d873",
   "binaries": [
     "/usr/bin/runelite"
   ],
